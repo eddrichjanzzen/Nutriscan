@@ -1,5 +1,3 @@
-# scan-muna
-
 ## Project setup
 ```
 npm install
