@@ -4,11 +4,11 @@
     <h1>Upload Photo Below</h1>
     <div v-for="data in scanned_data">
       
-<!--       <div v-if="data.state!=0"> -->
+      <div v-if="data.state!=0">
         <input type="text" :value="data.ingredient" disabled>
         <p>{{ data.description }}</p>
         <h3 :class="{'one': data.rating==1, 'two': data.rating==2, 'three': data.rating==3 }">Rating: {{ data.rating }}</h3>
-      <!-- </div>         -->
+      </div>        
 
    
     </div>

@@ -1,10 +1,7 @@
 <template>
   <div class="home">
-    <div class="container-box">
-    <img src="../assets/Logo2.png" class="avatar">
-    <img src="../assets/image.jpeg" class="avatar">
-    </div>
-<!-- 
+
+  <img src="../assets/Logo2.png" class="avatar">
     <div class="container-box">
       <div class="bg"></div>  
       <div class="ite">
@@ -28,7 +25,7 @@
         <h3>ADD FOOD</h3>
       </div>
 
-    </div> -->
+    </div>
 
     <div class="container">
       <button @click="logout" class="item scan">Logout</button>
