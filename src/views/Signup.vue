@@ -16,7 +16,6 @@
   /* Avatar image */
   img.avatar {
     width: 40%;
-    border-radius: 50%;
   }
 
 </style>
