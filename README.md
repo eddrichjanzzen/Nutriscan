@@ -29,4 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Architecture
-![](architecture.png)
+![](architecture.jpeg)
